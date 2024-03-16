@@ -1,5 +1,5 @@
 
-name: Run XMRtwo
+name: Run crudxmr
 
 on:
   push:
